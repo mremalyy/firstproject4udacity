@@ -1,0 +1,25 @@
+html { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.card-contents {
+width:300px ;
+padding: 6px;
+border: 7px solid #b6b6b6;
+box-shadow: 1px ;
+}
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.pic { width: 300px ; }
+.info { margin: 0%;
+    padding: 10%;
+    border: 2px solid #b6b6b6;
+
+}
+.interesting-fact{ font-style: italic; }
+.list { list-style: none; 
+padding: 0%
+}
+span { font-weight: bold;}
